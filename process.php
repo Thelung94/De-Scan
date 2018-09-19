@@ -11,7 +11,7 @@ function index($pathreal){
       $ext = pathinfo($pathfile, PATHINFO_EXTENSION);
       if($ext==="py" || $ext==="jsp" || $ext==="java"){
         echo "<font color='#ff00ff'><h4>".$num."> Path File: ".$pathfile."</h4></font><br>";
-        $resultfinding = search($pathfile,"exec");
+        $resultfinding = search($pathfile,"exec(");
         $_SESSION['total_finding'] = $_SESSION['total_finding'] + $resultfinding;
         $num++;
       }
