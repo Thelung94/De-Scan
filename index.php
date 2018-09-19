@@ -25,7 +25,7 @@ border-top: 2px dashed #8c8b8b;
 <div class="container">
 	<div class="jumbotron">
            <h1>De Scan</h1>
-           <p>De Scan is open source application to scan Malicious code to ro run execution command in java application</p>
+           <p>De Scan is open source application to scan malicious code to run execution command in java application</p>
 					 <br>
 					 <p>
 						 <hr class="style5">
