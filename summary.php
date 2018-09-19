@@ -27,7 +27,7 @@ border-top: 2px dashed #8c8b8b;
 
   <table class="table table-striped table-hover">
    <tr>
-     <td><center><font color='#33cc33'><h2>Total Fail:</h2></font></center></td>
+     <td><center><font color='#33cc33'><h2>Total Files:</h2></font></center></td>
      <td><center><font color='#33cc33'><h2>Total Findings:</h2></font></center></td>
    </tr>
    <tr>
